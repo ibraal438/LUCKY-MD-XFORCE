@@ -122,8 +122,13 @@
       "value": "no",
       "required": false
     },
-    "AUTO_REACTION": {
-      "description": "Set 'yes' to enable bot reactions to messages in private chats",
+    "AUTO_REACT_PM": {
+      "description": "Set 'yes' to enable bot reactions to messages in private away chats",
+      "value": "no",
+      "required": false
+    },
+    "AUTO_REACT_GC": {
+      "description": "Set 'yes' to enable bot reactions to messages in group away chats",
       "value": "no",
       "required": false
     }
