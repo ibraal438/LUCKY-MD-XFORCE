@@ -1,6 +1,6 @@
 {
-  "name": "💦LUCKY-MD-XFORCE💨 MULTI DEVICE",
-  "description": "💦LUCKY-MD-⁠XFORCE💨 Whatsapp device bot made by FrediEzra Tech Info to help Whatsapp users to enjoy while helping...",
+  "name": "LUCKY-XMD MULTI DEVICE",
+  "description": "LUCKY-XMD Whatsapp device bot made by Fredi_Ezra Tech Info to help Whatsapp users to enjoy while helping... https://frediezra360@gmail.com",
   "keywords": [
     "bot",
     "node",
@@ -54,7 +54,7 @@
     },
     "AUTO_STATUS_TEXT": {
       "description": "type your genuine status message",
-      "value": "💲YOUR STATUS VIEWED BY 💦LUCKY-MD-⁠XFORCE💨 SUCCESSFUL 😇✅✅",
+      "value": "💲YOUR STATUS VIEWED BY 💦 LUCKY-XMD 💨 SUCCESSFUL 😇✅✅",
       "required": false
     },
     "AUTO_STATUS_REPLY": {
@@ -84,7 +84,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "Fredi_Ezra",
       "required": false
     },
     "AUTO_READ_MESSAGES": {
