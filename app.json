@@ -1,6 +1,6 @@
 {
-  "name": "LUCKY-XMD MULTI DEVICE",
-  "description": "LUCKY-XMD Whatsapp device bot made by Fredi_Ezra Tech Info to help Whatsapp users to enjoy while helping... https://frediezra360@gmail.com",
+  "name": "CREINS-XMD MULTI DEVICE",
+  "description": "CREINS-XMD Whatsapp device bot made by creins_ibraal Tech Info to help Whatsapp users to enjoy while helping... https://frediezra360@gmail.com",
   "keywords": [
     "bot",
     "node",
@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://files.catbox.moe/1q3yrw.jpg",
-  "repository": "https://github.com/mr-X-force/LUCKY-MD-XFORCE",
+  "repository": "https://github.com/mr-X-force/CREINS-MD-XFORCE",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -21,7 +21,8 @@
       "description": "Your contact status will be read automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
       "value": "yes",
       "required": false
-    },
+    },
+
     "GREET_MESSAGE": {
       "description": "when enabled it automatically sends greeting message in your chats",
       "value": "no",
@@ -54,7 +55,7 @@
     },
     "AUTO_STATUS_TEXT": {
       "description": "type your genuine status message",
-      "value": "💲YOUR STATUS VIEWED BY 💦 LUCKY-XMD 💨 SUCCESSFUL 😇✅✅",
+      "value": "💲YOUR STATUS VIEWED BY 💦 CREINS-XMD 💨 SUCCESSFUL 😇✅✅",
       "required": false
     },
     "AUTO_STATUS_REPLY": {
@@ -76,7 +77,8 @@
       "description": "Insert your Heroku API key (required)",
       "value": "",
       "required": true
-    },
+    },
+
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
       "value": "",
@@ -84,7 +86,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "Fredi_Ezra",
+      "value": "creins_ibraal",
       "required": false
     },
     "AUTO_READ_MESSAGES": {
@@ -93,8 +95,8 @@
       "required": false  
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "description": "Your phone number (exclude '+' and area code, e.g., '254787243487')",
+      "value": "254787243487",
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
@@ -132,6 +134,7 @@
       "value": "no",
       "required": false
     }
+
     },
 
  "formation": {
