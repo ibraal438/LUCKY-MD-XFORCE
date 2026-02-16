@@ -1,10 +1,10 @@
 {
-  "bot-name": "LUCKY-MD-XFORCE MULT DEVICE",
-  "description": "Lucky Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping...",
+  "bot-name": "CREINS-MD-XFORCE MULT DEVICE",
+  "description": "Creins Whatsapp device bot made by ibraal to help Whatsapp users to enjoy while helping...",
   "logo": "https://files.catbox.moe/uw4l17.jpeg",
   "keywords": ["Fredi-Ezra", "Lucky-Md", "mdtech"],
-  "documentation-link": "https://lucky-xforce-session-site.onrender.com",
-  "owner-verification":"frediezra001@gmail.com",
+  "documentation-link": "https://creins-xforce-session-site.onrender.com",
+  "owner-verification":"creinsibraal7@gmail.com",
   "env": {
     "PREFIX":
     {
@@ -71,7 +71,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "⁠LUCKY-MD-XFORCE",
+      "value": "⁠CREINS-MD-XFORCE",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -96,7 +96,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "creinsibraal",
       "required": false
     },
     "URL": {
@@ -110,8 +110,8 @@
       "required": false  
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "description": "Your phone number (exclude '+' and area code, e.g., '254787243487')",
+      "value": "254787243487",
       "required": false
     },
     "WARN_COUNT": {
